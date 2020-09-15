@@ -63,9 +63,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
                     $mail->Port=587;
                     $mail->SMTPAuth=true;
                     $mail->SMTPSecure='tls';
-                    $mail->Username='sakthisakthi380@gmail.com';
-                    $mail->Password='sakthivel@17';
-                    $mail->setFrom('sakthisakthi380@gmail.com','sakthi');
+                    $mail->Username='youremail@gmail.com';
+                    $mail->Password='yourpass';
+                    $mail->setFrom('youremail@gmail.com','yourname');
                     $mail->addAddress($pemail);
                     $mail->addReplyTo($pemail);
                     $mail->isHTML(true);
