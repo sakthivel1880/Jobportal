@@ -1,0 +1,34 @@
+[16-Aug-2019 17:00:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/citys.php on line 14
+[16-Aug-2019 17:08:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/citys.php on line 14
+[17-Aug-2019 04:13:26 UTC] PHP Notice:  Undefined variable: options1 in /home/vgn1cj23o2zk/public_html/lennim.com/admin/qulification.php on line 72
+[17-Aug-2019 04:13:45 UTC] PHP Notice:  Undefined variable: options1 in /home/vgn1cj23o2zk/public_html/lennim.com/admin/qulification.php on line 72
+[17-Aug-2019 04:56:32 UTC] PHP Notice:  Undefined index: qua_category in /home/vgn1cj23o2zk/public_html/lennim.com/admin/edit_qulificatoin.php on line 17
+[17-Aug-2019 13:04:26 UTC] PHP Notice:  Undefined variable: options1 in /home/vgn1cj23o2zk/public_html/lennim.com/admin/qulification.php on line 72
+[17-Aug-2019 13:09:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function decryptIt() in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 82
+[17-Aug-2019 13:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_decrypt() in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php:8
+Stack trace:
+#0 /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php(86): decryptIt('482c811da5d5b4b...')
+#1 {main}
+  thrown in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 8
+[17-Aug-2019 13:18:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_decrypt() in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php:8
+Stack trace:
+#0 /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php(86): decryptIt('482c811da5d5b4b...')
+#1 {main}
+  thrown in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 8
+[19-Aug-2019 12:41:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[19-Aug-2019 12:41:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[19-Aug-2019 12:41:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[19-Aug-2019 12:52:31 UTC] PHP Notice:  Undefined variable: options1 in /home/vgn1cj23o2zk/public_html/lennim.com/admin/qulification.php on line 72
+[19-Aug-2019 12:52:45 UTC] PHP Notice:  Undefined variable: options1 in /home/vgn1cj23o2zk/public_html/lennim.com/admin/qulification.php on line 72
+[19-Aug-2019 12:56:37 UTC] PHP Notice:  Undefined variable: options1 in /home/vgn1cj23o2zk/public_html/lennim.com/admin/qulification.php on line 72
+[20-Aug-2019 07:43:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[20-Aug-2019 07:43:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[20-Aug-2019 07:43:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[20-Aug-2019 07:43:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[25-Aug-2019 12:31:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[25-Aug-2019 12:31:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[25-Aug-2019 12:31:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104
+[25-Aug-2019 12:31:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/vgn1cj23o2zk/public_html/lennim.com/admin/viewcandidate.php on line 104

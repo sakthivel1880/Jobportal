@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3671CA;stroke:#3671CA;stroke-miterlimit:10;}
+	.st1{fill:#D40016;stroke:#FF2AE7;stroke-width:0.75;stroke-miterlimit:10;}
+	.st2{fill:#3671CA;stroke:#FF2AE7;stroke-width:0.75;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{fill:#3671CA;}
+	.st5{font-family:'Algerian';}
+	.st6{font-size:60px;}
+</style>
+<rect x="209.5" y="195.5" class="st0" width="12.1" height="124.5"/>
+<path class="st0" d="M248,320h-12.1c0,0,0-95.3,0-119.2c0-3.4,0-5.3,0.4-4.1c-0.4-1.2,2.6-1.2,5.6-1.2c3,0,6,0,6,0V320z"/>
+<path class="st1" d="M333.5,85.5"/>
+<path class="st2" d="M415.5,223.5"/>
+<circle class="st0" cx="227.5" cy="167.5" r="21"/>
+<rect x="461.8" y="305.2" class="st3" width="2.6" height="2.6"/>
+<rect x="132" y="331.4" class="st3" width="219.3" height="64.9"/>
+<text transform="matrix(1 0 0 1 132 371.458)" class="st4 st5 st6">LENNIM</text>
+<polyline class="st4" points="211,283 195,283 195,195 211,195 "/>
+<polyline class="st4" points="245.5,195 261.5,195 261.5,283 245.5,283 "/>
+<rect x="77" y="19" class="st3" width="106" height="35"/>
+</svg>
